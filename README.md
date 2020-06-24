@@ -23,7 +23,12 @@
     *A better look for the UI is in progress*
     *Adding more functionalities to the app.*
     *Making this a web application launcher which opens all the tabs required and grouping them in different tags*
+    
  
 **Who is the point of contact if any assistance is required**
    ***Feel free to wrie to me: ebin0402@gmail.com***
+   
+<img width="667" alt="Screenshot 2020-06-24 at 3 41 26 PM" src="https://user-images.githubusercontent.com/56077828/85537140-568dae80-b631-11ea-9f8c-1e7399c74716.png">
+
+
     
